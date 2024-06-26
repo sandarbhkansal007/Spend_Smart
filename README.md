@@ -1,7 +1,7 @@
-# Expense Tracker
+# Spend Smart
 
 ## Overview
-Expense Tracker is a web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to help users manage their expenses efficiently.
+Spend Smart is a web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to help users manage their expenses efficiently.
 
 ![Home Page](homepage.png)
 
